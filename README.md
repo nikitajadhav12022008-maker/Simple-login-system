@@ -25,6 +25,12 @@ Run the program using:
 ```bash
 python Simple login system.py
 
+##📁Project structure:
+simple login system/
+|
+|_____Simple login system.py
+|_____README.md
+
 ###📌 Sample Output:
 Username: admin
 Password: 1234

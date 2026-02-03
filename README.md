@@ -41,7 +41,7 @@ Invalid credentials
 
 Username: user
 Password: wrong
-Account locked
+Account locked...
 
 #🔮 Future Improvements:
 Hide password input
